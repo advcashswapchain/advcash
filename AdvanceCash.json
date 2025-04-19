@@ -1,0 +1,21 @@
+{
+  "name": "AdvanceCash",
+  "symbol": "ACASH",
+  "description": "AdvanceCash (ACASH) is an ERC20 token with a total supply of 1 billion on Sonic Link Chain.",
+  "decimals": 18,
+  "total_supply": 1000000000,
+  "website": "https://advancecashsonic.com/",
+  "contract_address": "0x6f4aD589011600CB35A798276A628781AFCc634f",
+  "contract_scan": "https://sonicscan.org/address/0x6f4aD589011600CB35A798276A628781AFCc634f",
+  "logo": "ipfs://bafkreigz5pbtgwvwcrf75msnivjg3xsbtoe3pflmddykrvvtveoerryvii",
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://advancecashsonic.com/"
+    },
+    {
+      "name": "SonicScan",
+      "url": "https://sonicscan.org/address/0x6f4aD589011600CB35A798276A628781AFCc634f"
+    }
+  ]
+}
